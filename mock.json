@@ -1,0 +1,63 @@
+[
+    
+{
+    "sold_at": "2021-01-02 00:00:00",
+    "customer": {
+        "document": "00000000000",
+        "name": "JOSE DA SILVA"
+    },
+    "total": "100.00",
+    "products": [
+        {
+            "type": "A",
+            "value": "10.00",
+            "qty": 1
+        },
+        {
+            "type": "B",
+            "value": "10.00",
+            "qty": 9
+        }
+    ]
+},    
+    
+{
+    "sold_at": "2021-01-02 m",
+    "customer": {
+       "document": "00000000000",
+       "name": "JOSE DA SILVA"
+    },
+    "total": "80.00",
+    "products": [
+       {
+          "type": "A",
+          "value": "10.00",
+          "qty": 1
+       },
+       {
+          "type": "B",
+          "value": "10.00",
+          "qty": 9
+       }
+    ]
+},
+{
+    "sold_at": "2021-01-02 00:00:00",
+    "customer": {
+       "document": "00000000001",
+       "name": "NANA"
+    },
+    "total": "80.00",
+    "products": [
+       {
+          "type": "A",
+          "value": "10.00",
+          "qty": 1
+       },
+       {
+          "type": "B",
+          "value": "10.00",
+          "qty": 7
+       }
+    ]
+}]
