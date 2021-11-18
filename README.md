@@ -16,6 +16,6 @@
 
 # arquivos
 - PurchasesAPI.py : api criada.
-- Main.py: console a api criada e a da empresa.
+- main.py: consome a api criada e envia para a empresa.
 - mock.json : dados mockados.
 - complete_purchase.json : dados de retorno após enviar para a empresa os dados dos pedidos.
