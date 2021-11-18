@@ -51,7 +51,9 @@ class PurchaseList(Resource):
     
    
     def products_validation(self, total, products):
+        # 10 porcento de desconto no total
         cashback = 0.1
+        # Soma total dos valores do pedido
         sum_value = 0
         for p in products:
            if(self.validation_empty_and_type(p["type"]) and self.validation_empty_and_type(float(p["value"]),'float') 
