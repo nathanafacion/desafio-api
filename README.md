@@ -16,6 +16,6 @@
 
 # arquivos
 - PurchasesAPI.py : api criada.
-- main.py: consome a api criada e envia para a empresa.
+- main.py: consome a api criada e envia para a empresa de cashback.
 - mock.json : dados mockados.
 - complete_purchase.json : dados de retorno após enviar para a empresa os dados dos pedidos.
