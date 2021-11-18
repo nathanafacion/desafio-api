@@ -18,4 +18,4 @@
 - PurchasesAPI.py : api desenvolvida, com a lógica de validação solicitada.
 - main.py: consome a api criada e envia para a empresa de cashback.
 - mock.json : dados mockados.
-- complete_purchase.json : dados de retorno após enviar para a empresa os dados dos pedidos.
+- complete_purchase.json : dados de retorno após enviar para a empresa de cashback os dados dos pedidos.
