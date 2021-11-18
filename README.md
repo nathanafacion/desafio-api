@@ -1,7 +1,7 @@
 # desafio-api
 
 - Criar uma API para o desafio proposto na empresa
-- Solução : uso de tecnologias já conhecidas para mostrar habilidades com a API de forma simples e cara.
+- Solução : uso de tecnologias já conhecidas para mostrar habilidades com a API de forma simples e clara.
 
 
 # tecnologias usadas
